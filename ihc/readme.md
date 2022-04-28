@@ -21,7 +21,7 @@ A aplicação deve disponibilizar meios para o usuário desfazer um erro cometid
 
 **9. Help users recognize, diagnose and recover from errors**
 
-Mesmo que a aplicação tenha uma funcionalidade de desfazer ações, a melhor abordagem será impedir o usuario de executar um erro previsto. Um exemplo seria enviar arquivos de formato diferente do que o sistema estaria requisitando.
+Mesmo que a aplicação tenha uma funcionalidade de desfazer ações, pode ocorrer desta funcionalidade nao ser adequada a alguma situação como enviar um arquivo de extensão inadequada a situação ou da regra de negocio do sistema. Logo, o sistema tem que ajudar o usuario a encontrar o gargalo e auxiliá-lo a encontrar o caminho da solução e prosseguir com o funcionamento da aplicação.
 
 | Instrução para enviar um arquivo PDF | Instrução para escolher um arquivo adequado para o sistema |
 | :--------------------------------: | :-------------------------------------------: |
