@@ -28,6 +28,39 @@ Mesmo que a aplicação tenha uma funcionalidade de desfazer ações, pode ocorr
 | ![image](https://user-images.githubusercontent.com/55204419/164982028-5baa71b9-90d4-4f6a-89e3-afcd23cefa75.png) | ![image](https://user-images.githubusercontent.com/55204419/164982012-cadd48f7-07cf-4492-b3fe-0b994721c4b8.png) |
 
 ---
+# WCAG
 
-# Erros
-**Exemplo 1**
+
+### 1.3.4 Orientation (Level AA)
+
+Não restringir a exibição e a operação do conteúdo a uma única orientação de exibição (retrato ou paisagem), a menos que uma orientação de exibição específica seja essencial.
+
+Um exemplo é o nosso projeto feito através do projeto integrador da FATEC [HelpDuck](https://help-duck.netlify.app/).
+
+| Site em modo retrato     |   Site em modo paisagem  |
+| :--------------------------------: | :-------------------------------------------: |
+| ![image](https://user-images.githubusercontent.com/55204419/172738913-5ad8b710-8038-4190-a1bf-fa95314e31a3.png) | ![image](https://user-images.githubusercontent.com/55204419/172738926-474116f3-473e-4a3d-bf6c-aa2c37a61aa6.png)|
+
+
+### 2.4.11 Focus Appearance (Minimum) (Level AA)
+    
+A intenção do padrão WCAG 2.4.11 é ajudar usuários com baixa visão que usam um teclado para navegar em um site, garantindo que o ponto de foco atual seja claramente visível. Para passar neste critério basta projetar uma borda grossa ao redor do elemento como no exemplo abaixo do site da steam:
+![image](https://user-images.githubusercontent.com/55204419/172734064-026bc80e-2c6c-44c5-af59-b25db7435dc5.png)
+
+
+### 3.3.8 Redundant Entry (Level A)
+
+A intenção do padrão WCAG 3.3.8 é ajudar os usuários com dificuldades de memória de curto prazo e outros problemas cognitivos a limitar a necessidade de recuperar informações fornecidas em uma etapa anterior de um processo, como o envio de um formulário.
+
+Exemplos para passar esse critério incluem permitir que o usuário confirme que o endereço de cobrança e o endereço de entrega são o mesmo endereço ou até mesmo cartões de créditos.
+
+Exemplos para executar uma compra no site da Amazon:
+
+![image](https://user-images.githubusercontent.com/55204419/172736130-35a5f852-74da-436a-a0d3-ea141b83bc7c.png)
+
+
+> ![image](https://user-images.githubusercontent.com/55204419/172736472-7fb409d7-f758-475f-84f3-92d43f6541e9.png) <br>
+> informações apagadas para privacidade do autor deste repositório.
+
+<br>
+
